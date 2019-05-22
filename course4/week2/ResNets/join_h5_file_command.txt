@@ -1,0 +1,1 @@
+cat coursera-deeplearning-ai-course2-week2-resnet50* > coursera-deeplearning-ai-course2-week2-resnet50.tgz
